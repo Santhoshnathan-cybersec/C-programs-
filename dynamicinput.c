@@ -6,7 +6,7 @@ int main() {
     printf("Enter an integer: ");
     scanf("%d",&a); //Scans an integer from user input and stores it in variable a
     printf("Enter a float: ");
-    scanf("%f",&b);//Scans a float from user input and stores it in variable b
+    scanf("%f",&b);//Scans a float from user input and stores it in variable b 
     printf("Enter a character: ");
     scanf(" %c",&c); // Note the space before %c to consume any leftover
     printf("You entered integer: %d\n", a);
