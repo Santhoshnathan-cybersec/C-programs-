@@ -18,5 +18,7 @@ int main(){
     printf("The bitwise AND of a and b is : %d\n",a&b);//Bitwise AND
     printf("The bitwise OR of a and b is : %d\n",a|b);//Bitwise OR
     printf("The bitwise XOR of a and b is : %d\n",a^b);//Bitwise XOR
+    printf("The bitwise Left Shift of a is : %d\n",a<<1);//Bitwise Left Shift
+    printf("The bitwise Right Shift of a is : %d\n",a>>1);//Bitwise Right Shift
     return 0;  
 }
